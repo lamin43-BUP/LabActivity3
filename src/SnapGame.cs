@@ -35,7 +35,7 @@ SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
 }
 else if (SwinGame.KeyTyped (KeyCode.vk_LSHIFT))
 {
-myGame.PlayerHit (0);
+myGame.PlayerHit (1);
 }
 else if (SwinGame.KeyTyped (KeyCode.vk_RSHIFT))
 {
